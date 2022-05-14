@@ -77,6 +77,7 @@
   
   - **Video**
     - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab)
+    - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
 
   - **Book**
 
