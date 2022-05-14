@@ -5,7 +5,7 @@
 💡 To navigate easily through the roadmap, use the table of contents below.
 
 - [Prerequisites](#prerequisites)
-  - [Algorithms & Data Structures](#algorithms-&-data-structures)
+  - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [System Design](#system-design)
   - [Git](#git)
   - [Operating System](#operating-system)
@@ -45,7 +45,7 @@
   - [Design Patterns](#design-patterns)
   - [Message Brokers](#message-brokers)
   - [Web Servers](#web-servers)
-  - [Availability & Reliability](#availability-&-reliability)
+  - [Availability and Reliability](#availability-and-reliability)
   - [Distributed Systems](#distributed-systems)
   - [Reactive Systems](#reactive-systems)
   - [Refactoring](#refactoring)
@@ -58,7 +58,7 @@
 
 ## Prerequisites
 
-- ### Algorithms & Data Structures
+- ### Algorithms and Data Structures
   
   - **Book**
 
@@ -214,7 +214,7 @@
 
 - ### Web Servers
 
-- ### Availability & Reliability
+- ### Availability and Reliability
 
 - ### Distributed Systems
 
