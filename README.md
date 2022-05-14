@@ -202,6 +202,7 @@
     - **Video**
       - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
       - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/)
+      - [Docker in Action by Ahmad Tahani](https://faranesh.com/programming/14863-docker-in-action)
       - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0)
 
   - #### Kubernetes
