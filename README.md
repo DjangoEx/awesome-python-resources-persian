@@ -179,6 +179,9 @@
 
   - #### Redis
 
+    - **Video**
+      - [Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
+
   - #### MemCached
   
 - ### Clean Code
