@@ -60,58 +60,58 @@
 
 - ### الگوریتم ها و ساختار داده ها
   
-  - **Book**
+  - **کتاب**
 
-  - **Video**
+  - **ویدیو**
 
-  - **Platform**
+  - **بستر نرم افزاری**
     - [Quera](https://quera.org/)
 
 - ### طراحی سیستم
   
-  - **Book**
+  - **کتاب**
 
-  - **Course**
+  - **دوره**
 
 - ### گیت
   
-  - **Video**
+  - **ویدیو**
     - [Git Course by Jadi](https://faradars.org/courses/fvگیت9609-گیت-گیتhub-گیتlab)
     - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
 
-  - **Book**
+  - **کتاب**
 
 - ### سیستم عامل
 
-  - **Book**
+  - **کتاب**
 
-  - **Video**
+  - **ویدیو**
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
     - [Linux Course by Morteza Bashsiz](https://sudoer.ir/)
 
 - ### پایتون
 
-  - **Beginner**
+  - **مبتدی**
   
-    - **Book**
+    - **کتاب**
 
-    - **Video**
+    - **ویدیو**
       - [Python Tutorial by Jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/)
 
-    - **Platform**
+    - **بستر نرم افزاری**
       - [Python Coderz](https://python.coderz.ir/index.html)
 
-  - **Intermediate**
+  - **متوسطه**
   
-    - **Book**
-    - **Video**
+    - **کتاب**
+    - **ویدیو**
 
-  - **Advanced**
+  - **پیشرفته**
   
-    - **Book**
+    - **کتاب**
       - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/)
 
-    - **Video**
+    - **ویدیو**
 
 ## مسیر شغلی
 
@@ -119,11 +119,11 @@
 
   - #### جنگو
   
-    - **Book**
+    - **کتاب**
       - [Django for APIs by ftg-iran](https://گیتhub.com/ftg-iran/dfa-persian)
       - [Django for Professionals by ftg-iran](https://گیتhub.com/ftg-iran/dfp-persian)
       - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
-    - **Video**
+    - **ویدیو**
       - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
       - [Django All In One Course by BobyCloud](https://www.youtube.com/watch?v=5SXtOyOhk9M&list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr)
       - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx)
@@ -133,12 +133,12 @@
 
   - #### فست ای پی آی
 
-    - **Video**
+    - **ویدیو**
       - [Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
 
   - #### فلسک
 
-    - **Video**
+    - **ویدیو**
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
 
   - #### سنیک
@@ -171,7 +171,7 @@
 
   - #### پستگرس کیو ال
   
-    - **Video**
+    - **ویدیو**
 
       - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
       - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M)
@@ -180,7 +180,7 @@
 
   - #### ردیس
 
-    - **Video**
+    - **ویدیو**
       - [Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
 
   - #### مم کشد
@@ -197,9 +197,9 @@
 
   - #### داکر
   
-    - **Book**
+    - **کتاب**
 
-    - **Video**
+    - **ویدیو**
       - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
       - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/)
       - [Docker in Action by Ahmad Tahani](https://faranesh.com/programming/14863-docker-in-action)
