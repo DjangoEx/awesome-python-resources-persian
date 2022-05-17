@@ -1,64 +1,64 @@
-# Python Engineer Roadmap (Persian)
+# نقشه ی راه مهندس پایتون
 
-## Table of Contents
+## فهرست مطالب
 
-💡 To navigate easily through the roadmap, use the table of contents below.
+💡 برای حرکت راحت تر بین مطالب ، از فهرست مطالب زیر استفاده کنید
 
-- [Prerequisites](#prerequisites)
-  - [Algorithms and Data Structures](#algorithms-and-data-structures)
-  - [System Design](#system-design)
-  - [Git](#git)
-  - [Operating System](#operating-system)
-  - [Python](#python)
-- [Career Path](#career-path)
-  - [Backend](#backend)
-    - [Django](#django)
-    - [FastAPI](#fastapi)
-    - [Flask](#flask)
-    - [Sanic](#sanic)
+- [پیشنیاز-ها](#پیشنیاز-ها)
+  - [الگوریتم ها و ساختار داده ها](#الگوریتم-ها-و-ساختار-داده-ها)
+  - [طراحی سیستم](#طراحی-سیستم)
+  - [گیت](#گیت)
+  - [سیستم عامل](#سیستم-عامل)
+  - [پایتون](#پایتون)
+- [مسیر شغلی](#مسیر-شغلی)
+  - [سمت سرور](#سمت-سرور)
+    - [جنگو](#جنگو)
+    - [فست ای پی آی](#فست-ای-پی-آی)
+    - [فلسک](#فلسک)
+    - [سنیک](#saسنیکnic)
     - [AIOHTTP](#aiohttp)
-    - [Bottle](#bottle)
-    - [Dash](#dash)
-  - [Data Science](#data-science)
-  - [Machine Learning](#machine-learning)
-  - [Deep Learning](#deep-learning)
-  - [DevOps](#devops)
-  - [Hacking](#hacking)
-  - [Algorithmic Trading](#algorithmic-trading)
-- [Advanced Topics](#advanced-topics)
-  - [Databases](#databases)
-    - [General](#general)
-    - [PostgreSQL](#postgresql)
-    - [MongoDB](#mongodb)
-    - [Redis](#redis)
-    - [MemCached](#memcached)
-  - [Clean Code](#clean-code)
-  - [Clean Architecture](#clean-architecture)
+    - [باتل](#باتل)
+    - [دش](#دش)
+  - [علم داده](#علم-داده)
+  - [یادگیری ماشین](#یادگیری-ماشین)
+  - [یادگیری عمیق](#یادگیری-عمیق)
+  - [دوآپس](#دوآپس)
+  - [هک و امنیت](#هک-و-امنیت)
+  - [مبادله-الگوریتمیک](#مبادله-الگوریتمیک)
+- [مباحث پیشرفته](#مباحث-پیشرفته)
+  - [پایگاه داده ها](#پایگاه-داده-ها)
+    - [عمومی](#عمومی)
+    - [پستگرس کیو ال](#پستگرس-کیو-ال)
+    - [مونگو دی بی](#مونگو-دی-بی)
+    - [ردیس](#ردیس)
+    - [مم کشد](#مم-کشد)
+  - [کد تمیز](#کشد-تمیز)
+  - [معماری تمیز](#معماری-تمیز)
   - [Caching](#caching)
   - [Testing](#testing)
-  - [Container Platforms](#container-platforms)
-    - [Docker](#docker)
-    - [Kubernetes](#kubernetes)
-  - [Programming Paradigms](#programming-paradigms)
-  - [Architectural Patterns](#architectural-patterns)
-  - [Design Principles](#design-principles)
-  - [Design Patterns](#design-patterns)
+  - [نرم افزار های کانتینتر](#نرم-افزار-های-کانتینتر)
+    - [داکر](#داکر)
+    - [کوبرنتز](#کوبرنتز)
+  - [الگو های برنامه نویسی](#الگو-های-برنامه نویسی)
+  - [الگو های معماری](#الگو-های-معماری)
+  - [اصول طراحی](#اصول-طراحی)
+  - [الگو های طراحی](#الگو-های-طراحی)
   - [Message Brokers](#message-brokers)
   - [Web Servers](#web-servers)
-  - [Availability and Reliability](#availability-and-reliability)
-  - [Distributed Systems](#distributed-systems)
-  - [Reactive Systems](#reactive-systems)
+  - [دسترسی و پایداری](#دسترسی-و-پایداری)
+  - [سیستم های توزیع شده](#سیستم-های-توزیع-شده)
+  - [سیستم های واکنش پذیر](#سیستم-های-واکنش-پذیر)
   - [Refactoring](#refactoring)
-  - [Security](#security)
-  - [Monitoring](#monitoring)
-  - [Soft Skill](#soft-skill)
+  - [امنیت](#امنیت)
+  - [نظارت](#نظارت)
+  - [مهارت های نرم](#مهارت-های-نرم)
   - [Public Cloud](#public-cloud)
-  - [Where to Go Next?](#where-to-go-next)
-- [Contribution](#contribution)
+  - [بعد از این چه کاری انجام دهیم؟](#where-to-go-next)
+- [مشارکت](#مشارکت)
 
-## Prerequisites
+## پیشنیاز-ها
 
-- ### Algorithms and Data Structures
+- ### الگوریتم ها و ساختار داده ها
   
   - **Book**
 
@@ -67,21 +67,21 @@
   - **Platform**
     - [Quera](https://quera.org/)
 
-- ### System Design
+- ### طراحی سیستم
   
   - **Book**
 
   - **Course**
 
-- ### Git
+- ### گیت
   
   - **Video**
-    - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab)
+    - [Git Course by Jadi](https://faradars.org/courses/fvگیت9609-گیت-گیتhub-گیتlab)
     - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
 
   - **Book**
 
-- ### Operating System
+- ### سیستم عامل
 
   - **Book**
 
@@ -89,7 +89,7 @@
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
     - [Linux Course by Morteza Bashsiz](https://sudoer.ir/)
 
-- ### Python
+- ### پایتون
 
   - **Beginner**
   
@@ -113,15 +113,15 @@
 
     - **Video**
 
-## Career Path
+## مسیر شغلی
 
-- ### Backend
+- ### سمت سرور
 
-  - #### Django
+  - #### جنگو
   
     - **Book**
-      - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian)
-      - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian)
+      - [Django for APIs by ftg-iran](https://گیتhub.com/ftg-iran/dfa-persian)
+      - [Django for Professionals by ftg-iran](https://گیتhub.com/ftg-iran/dfp-persian)
       - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
     - **Video**
       - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
@@ -131,71 +131,71 @@
       - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7)
       - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa)
 
-  - #### FastAPI
+  - #### فست ای پی آی
 
     - **Video**
       - [Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
 
-  - #### Flask
+  - #### فلسک
 
     - **Video**
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
 
-  - #### Sanic
+  - #### سنیک
 
   - #### AIOHTTP
 
-  - #### Bottle
+  - #### باتل
 
-  - #### Dash
+  - #### دش
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
-- ### Data Science
+- ### علم داده
 
-- ### Machine Learning
+- ### یادگیری ماشین
 
-- ### Deep Learning
+- ### یادگیری عمیق
 
-- ### DevOps
+- ### دوآپس
 
-- ### Hacking
+- ### هک و امنیت
 
-- ### Algorithmic Trading
+- ### مبادله الگوریتمیک
 
-## Advanced Topics
+## مباحث پیشرفته
 
-- ### Databases
+- ### پایگاه داده ها
   
-  - #### General
+  - #### عمومی
 
-  - #### PostgreSQL
+  - #### پستگرس کیو ال
   
     - **Video**
 
       - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
       - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M)
 
-  - #### MongoDB
+  - #### مونگو دی بی
 
-  - #### Redis
+  - #### ردیس
 
     - **Video**
       - [Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
 
-  - #### MemCached
+  - #### مم کشد
   
-- ### Clean Code
+- ### کد تمیز
 
-- ### Clean Architecture
+- ### معماری تمیز
 
 - ### Caching
 
 - ### Testing
 
-- ### Container Platforms
+- ### نرم افزار های کانتینر
 
-  - #### Docker
+  - #### داکر
   
     - **Book**
 
@@ -205,40 +205,40 @@
       - [Docker in Action by Ahmad Tahani](https://faranesh.com/programming/14863-docker-in-action)
       - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0)
 
-  - #### Kubernetes
+  - #### کوبرنتز
 
-- ### Programming Paradigms
+- ### الگو های برنامه نویسی
 
-- ### Architectural Patterns
+- ### الگو های معماری
 
-- ### Design Principles
+- ### اصول طراحی
   
-- ### Design Patterns
+- ### الگو های طراحی
 
 - ### Message Brokers
 
 - ### Web Servers
 
-- ### Availability and Reliability
+- ### دسترسی و پایداری
 
-- ### Distributed Systems
+- ### سیستم های توزیع شده
 
-- ### Reactive Systems
+- ### سیستم های واکنش پذیر
 
 - ### Refactoring
 
-- ### Security
+- ### امنیت
 
-- ### Monitoring
+- ### نظارت
 
-- ### Soft Skill
+- ### مهارت های نرم
 
 - ### Public Cloud
 
-- ### Where to Go Next?
+- ### بعد از این چه کاری انجام دهیم؟
 
-## Contribution
+## مشارکت
 
-Feel free to contribute and add more resources.
+با خیال راحت مشارکت کنید و منابع بیشتری اضافه کنید.
 
-First time contributing to a repository? For more information about the steps and guides, check out [this repository](https://github.com/firstcontributions/first-contributions). ([Also available in Persian](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md))
+اولین بار است که مشارکت میکنید؟برای اطلاعات بیشتر درباره ی مراحل و راهنما ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions).
