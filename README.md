@@ -4,7 +4,7 @@
 
 💡 To navigate easily through the roadmap, use the table of contents below.
 
-- [Prerequisites](#prerequisites)
+- [پیش نیازها](#پیش نیازها)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [System Design](#system-design)
   - [Git](#git)
