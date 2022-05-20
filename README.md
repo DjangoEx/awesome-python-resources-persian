@@ -76,7 +76,7 @@
 - ### گیت
   
   - **ویدیو**
-    - [Git Course by Jadi](https://faradars.org/courses/fvگیت9609-گیت-گیتhub-گیتlab)
+    - [Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
     - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
 
   - **کتاب**
@@ -120,8 +120,8 @@
   - #### جنگو
   
     - **کتاب**
-      - [Django for APIs by ftg-iran](https://گیتhub.com/ftg-iran/dfa-persian)
-      - [Django for Professionals by ftg-iran](https://گیتhub.com/ftg-iran/dfp-persian)
+      - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian)
+      - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian)
       - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
     - **ویدیو**
       - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
@@ -241,4 +241,4 @@
 
 با خیال راحت مشارکت کنید و منابع بیشتری اضافه کنید.
 
-اولین بار است که مشارکت میکنید؟برای اطلاعات بیشتر درباره ی مراحل و راهنما ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions).
+اولین بار است که مشارکت میکنید؟ برای اطلاعات بیشتر درباره ی مراحل و راهنما ها ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions).
