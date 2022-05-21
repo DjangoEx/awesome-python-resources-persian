@@ -241,4 +241,4 @@
 
 با خیال راحت مشارکت کنید و منابع بیشتری اضافه کنید.
 
-اولین بار است که مشارکت میکنید؟ برای اطلاعات بیشتر درباره ی مراحل و راهنما ها ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions).
+اولین بار است که مشارکت میکنید؟ برای اطلاعات بیشتر درباره ی مراحل و راهنما ها ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md).
