@@ -70,6 +70,7 @@
 - ### طراحی سیستم
   
   - **کتاب**
+    - [System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
 
   - **دوره**
 
