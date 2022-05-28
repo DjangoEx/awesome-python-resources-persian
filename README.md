@@ -12,13 +12,13 @@
   - [پایتون](#پایتون)
 - [مسیر شغلی](#مسیر-شغلی)
   - [سمت سرور](#سمت-سرور)
-    - [جنگو](#جنگو)
-    - [فست ای پی آی](#فست-ای-پی-آی)
-    - [فلسک](#فلسک)
-    - [سنیک](#saسنیکnic)
+    - [Django](#django)
+    - [FastAPI](#fastapi)
+    - [Flask](#flask)
+    - [Sanic](#sanic)
     - [AIOHTTP](#aiohttp)
-    - [باتل](#باتل)
-    - [دش](#دش)
+    - [Bottle](#bottle)
+    - [Dash](#dash)
   - [علم داده](#علم-داده)
   - [یادگیری ماشین](#یادگیری-ماشین)
   - [یادگیری عمیق](#یادگیری-عمیق)
@@ -121,7 +121,7 @@
 
 - ### سمت سرور
 
-  - #### جنگو
+  - #### Django
   
     - **کتاب**
 
@@ -138,25 +138,25 @@
       - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7)
       - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa)
 
-  - #### فست ای پی آی
+  - #### FastAPI
 
     - **ویدیو**
 
       - [Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
 
-  - #### فلسک
+  - #### Flask
 
     - **ویدیو**
 
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
 
-  - #### سنیک
+  - #### Sanic
 
   - #### AIOHTTP
 
-  - #### باتل
+  - #### Bottle
 
-  - #### دش
+  - #### Dash
 
   - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
 
