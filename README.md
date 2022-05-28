@@ -39,7 +39,6 @@
   - [نرم افزار های کانتینتر](#نرم-افزار-های-کانتینتر)
     - [داکر](#داکر)
     - [کوبرنتز](#کوبرنتز)
-
   - [الگو های برنامه نویسی](#الگو-های-برنامه-نویسی)
   - [الگو های معماری](#الگو-های-معماری)
   - [اصول طراحی](#اصول-طراحی)
@@ -71,6 +70,7 @@
 - ### طراحی سیستم
   
   - **کتاب**
+
     - [System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
 
   - **دوره**
@@ -78,6 +78,7 @@
 - ### گیت
   
   - **ویدیو**
+
     - [Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
     - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
 
@@ -106,6 +107,7 @@
   - **متوسطه**
   
     - **کتاب**
+
     - **ویدیو**
 
   - **پیشرفته**
@@ -122,10 +124,13 @@
   - #### جنگو
   
     - **کتاب**
+
       - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian)
       - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian)
       - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
+    
     - **ویدیو**
+
       - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
       - [Django All In One Course by BobyCloud](https://www.youtube.com/watch?v=5SXtOyOhk9M&list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr)
       - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx)
@@ -136,11 +141,13 @@
   - #### فست ای پی آی
 
     - **ویدیو**
+
       - [Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
 
   - #### فلسک
 
     - **ویدیو**
+
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
 
   - #### سنیک
@@ -183,6 +190,7 @@
   - #### ردیس
 
     - **ویدیو**
+
       - [Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
 
   - #### مم کشد
@@ -200,6 +208,7 @@
   - #### داکر
   
     - **کتاب**
+
 
     - **ویدیو**
       - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
