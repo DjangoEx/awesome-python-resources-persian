@@ -161,6 +161,10 @@
 
 - ### دوآپس
 
+  - **ویدیو**
+    - [SAHA DevOps Talks](https://www.youtube.com/playlist?list=PLwmrG1GXRCxBElssat08CW5yVjEAtJKX6)
+    - [سلام دوآپس با سعید](https://www.aparat.com/v/rNdW3?playlist=963191)
+
 - ### هک و امنیت
 
 - ### مبادله الگوریتمیک
