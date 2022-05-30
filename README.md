@@ -209,6 +209,9 @@
       - [Docker Workshop by Ahmad Anvari](https://www.aparat.com/v/kla0X)
 
   - #### کوبرنتز
+    
+    - **ویدیو**
+      - [Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
 
 - ### الگو های برنامه نویسی
 
