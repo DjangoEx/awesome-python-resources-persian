@@ -146,6 +146,9 @@
 
   - #### Flask
 
+    - **مستندات**
+        - [Flask Persian documents](https://flask-fa.readthedocs.io)
+
     - **ویدیو**
 
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
