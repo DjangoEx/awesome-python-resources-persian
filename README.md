@@ -32,7 +32,7 @@
     - [مونگو دی بی](#مونگو-دی-بی)
     - [ردیس](#ردیس)
     - [مم کشد](#مم-کشد)
-  - [کد تمیز](#کشد-تمیز)
+  - [کد تمیز](#کد-تمیز)
   - [معماری تمیز](#معماری-تمیز)
   - [Caching](#caching)
   - [Testing](#testing)
@@ -199,7 +199,7 @@
   - #### مم کشد
   
 - ### کد تمیز
-
+  - [Clean Code concepts for python](https://github.com/SepehrRasouli/clean-code-python/blob/master/README.md)
 - ### معماری تمیز
 
 - ### Caching
