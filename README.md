@@ -100,6 +100,7 @@
 
     - **ویدیو**
       - [Python Tutorial by Jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/)
+      - [Python Expert](https://sabzlearn.ir/product/python/)
 
     - **بستر نرم افزاری**
       - [Python Coderz](https://python.coderz.ir/index.html)
