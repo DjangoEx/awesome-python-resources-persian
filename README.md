@@ -152,8 +152,8 @@
         - [Flask Persian documents](https://flask-fa.readthedocs.io)
 
     - **ویدیو**
-
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
+      - [SMS Verification App by Jadi](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1vAT_rgjnvL_RgFUI9oJ9a)
 
   - #### Sanic
 
