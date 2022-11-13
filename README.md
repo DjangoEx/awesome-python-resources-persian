@@ -211,9 +211,6 @@
 - ### نرم افزار های کانتینر
 
   - #### داکر
-  
-    - **کتاب**
-
 
     - **ویدیو**
       - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
@@ -223,6 +220,11 @@
       - [Docker Workshop by Ahmad Anvari](https://www.aparat.com/v/kla0X)
 
   - #### کوبرنتز
+
+  	- **ویدیو**
+	    - [Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
+
+
 
 - ### الگو های برنامه نویسی
 
