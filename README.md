@@ -155,8 +155,8 @@
         - [Flask Persian documents](https://flask-fa.readthedocs.io)
 
     - **ویدیو**
-
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
+      - [SMS Verification App by Jadi](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1vAT_rgjnvL_RgFUI9oJ9a)
 
   - #### Sanic
 
@@ -175,6 +175,12 @@
 - ### یادگیری عمیق
 
 - ### دوآپس
+
+  - **ویدیو**
+    - [SAHA DevOps Talks](https://www.youtube.com/playlist?list=PLwmrG1GXRCxBElssat08CW5yVjEAtJKX6)
+    - [سلام دوآپس با سعید](https://www.aparat.com/v/rNdW3?playlist=963191)
+
+
 
 - ### هک و امنیت
 
@@ -214,9 +220,6 @@
 - ### نرم افزار های کانتینر
 
   - #### داکر
-  
-    - **کتاب**
-
 
     - **ویدیو**
       - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
@@ -226,6 +229,11 @@
       - [Docker Workshop by Ahmad Anvari](https://www.aparat.com/v/kla0X)
 
   - #### کوبرنتز
+
+  	- **ویدیو**
+	    - [Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
+
+
 
 - ### الگو های برنامه نویسی
 
