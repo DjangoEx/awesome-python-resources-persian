@@ -44,7 +44,9 @@
   - [بعد از این چه کاری انجام دهیم؟](#where-to-go-next)
 - [مشارکت](#مشارکت)
 
-## پیشنیاز ها
+## پیش نیاز ها
+
+<div dir="rtl">
 
 - ### الگوریتم ها و ساختار داده ها
   
@@ -109,6 +111,8 @@
       - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/)
 
     - **ویدیو**
+
+</div>
 
 ## مسیر شغلی
 
