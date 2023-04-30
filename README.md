@@ -1,4 +1,4 @@
-<span dir="rtl" align="right">
+<div dir="rtl" align="right" direction="rtl" text-align="right">
 
 # نقشه ی راه مهندس پایتون
 
@@ -260,4 +260,4 @@
 
 اولین بار است که مشارکت میکنید؟ برای اطلاعات بیشتر درباره ی مراحل و راهنما ها ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md).
 
-</span>
+</div>
