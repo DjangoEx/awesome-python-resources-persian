@@ -50,7 +50,7 @@
 
 <div dir="rtl" style="direction: rtl; text-align: right">
 
-- ### الگوریتم ها و ساختار داده ها
+### الگوریتم ها و ساختار داده ها
   
   - **کتاب**
 
