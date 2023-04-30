@@ -58,6 +58,8 @@
 
 [کوئرا](https://quera.org/)
 
+------
+
 ### طراحی سیستم
 
 **کتاب**
@@ -67,6 +69,8 @@
 **دوره**
 
 [دوره System Design Golem Course](https://www.youtube.com/watch?v=v9VdLLBETK8&list=PLnEg28Nx10WG5eYDLo76oh3oggu2ABboX)
+
+------
 
 ### گیت
 
@@ -78,74 +82,75 @@
 
 [دوره Git Course By Golem Course](https://www.youtube.com/watch?v=4RJUs6yP7HI&list=PLnEg28Nx10WFSSv9VK_sgrbMvqZTzgUKP)
 
+------
+
+### سیستم عامل
+
 **کتاب**
 
-- ### سیستم عامل
+**ویدیو**
 
-- **کتاب**
+[دوره Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
 
-- **ویدیو**
+[دوره Linux Course by Morteza Bashsiz](https://sudoer.ir/)
 
-  - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
-  - [Linux Course by Morteza Bashsiz](https://sudoer.ir/)
+------
 
-- ### پایتون
+### پایتون
 
-- **مبتدی**
+**کتاب**
 
-  - **کتاب**
+[شیوه‌نامه نگارش پایتون (PEP 8 فارسی)](https://pep8.ir/)
+[کتاب ترفندهای پایتون](http://boby.cloud/product/python-tricks/)
 
-    - [شیوه‌نامه نگارش پایتون (PEP 8 فارسی)](https://pep8.ir/)
+**ویدیو**
 
-  - **ویدیو**
+[دوره Python Tutorial by Jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/)
 
-    - [Python Tutorial by Jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/)
-    - [Python Expert](https://sabzlearn.ir/product/python/)
-    - [Python Tutorial by Golem Course](https://www.youtube.com/watch?v=d1RsktGiQIQ&list=PLnEg28Nx10WFuBHjDLlYEJ4JboPIp55Yr)
+[دوره Python Expert](https://sabzlearn.ir/product/python/)
 
-  - **بستر نرم افزاری**
-    - [Python Coderz](https://python.coderz.ir/index.html)
+[دوره Python Tutorial by Golem Course](https://www.youtube.com/watch?v=d1RsktGiQIQ&list=PLnEg28Nx10WFuBHjDLlYEJ4JboPIp55Yr)
 
-- **متوسطه**
+**بستر نرم افزاری**
 
-  - **کتاب**
+[پلتفرم Python Coderz](https://python.coderz.ir/index.html)
 
-  - **ویدیو**
+------
 
-- **پیشرفته**
+## مسیرهای شغلی
 
-  - **کتاب**
+### بک اند
 
-    - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/)
+#### جنگو
 
-  - **ویدیو**
+**کتاب**
 
-## مسیر شغلی
+[کتاب Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian)
 
-- ### سمت سرور
+[کتاب Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian)
 
-  - #### Django
+[کتاب Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
 
-    - **کتاب**
 
-      - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian)
-      - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian)
-      - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
+**ویدیو**
 
-    - **ویدیو**
+[دوره Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
 
-      - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
-      - [Django All In One Course by BobyCloud](https://www.youtube.com/watch?v=5SXtOyOhk9M&list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr)
-      - [Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx)
-      - [Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm)
-      - [Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7)
-      - [Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa)
+[دوره Django All In One Course by BobyCloud](https://www.youtube.com/watch?v=5SXtOyOhk9M&list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr)
 
-  - #### FastAPI
+[دوره Django Celery Course by Shahriar Shariati](https://www.youtube.com/watch?v=Fr9PljpWOz0&list=PLRU2zoAmuzJ1MjnIueq8vkXwWojH04Dwx)
 
-    - **ویدیو**
+[دوره Django Channels Course by Shahriar Shariati](https://www.youtube.com/watch?v=8tBZtG2iTKM&list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm)
 
-      - [Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
+[دوره Django Super Course by Shahrokh Kiumarsy](https://www.youtube.com/watch?v=UnP4DmFMAxc&list=PLT4Mhd4PhxKD5uBkjzXymKARtViXWtwb7)
+
+[دوره Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa)
+
+#### FastAPI
+
+**ویدیو**
+
+[دوره Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
 
   - #### Flask
 
