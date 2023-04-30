@@ -146,123 +146,172 @@
 
 [دوره Django Course by Hêmn Hosseinpana](https://www.youtube.com/watch?v=VVbznmQ5YbE&list=PLJ9zDGwhhsByH5tcpM9H3VzdHYpne3bSa)
 
-#### FastAPI
+#### فریمورک FastAPI
 
 **ویدیو**
 
 [دوره Free FastAPI course by Mohammad Javad Fadakar](https://youtube.com/playlist?list=PLVN7DLFGYaP46oDpQtSnOR6vguu_YpUM9)
 
-  - #### Flask
+#### فریمورک Flask
 
-    - **مستندات**
+**مستندات**
 
-      - [Flask Persian documents](https://flask-fa.readthedocs.io)
+[مستندات فارسی Flask](https://flask-fa.readthedocs.io)
 
-    - **ویدیو**
-      - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
-      - [SMS Verification App by Jadi](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1vAT_rgjnvL_RgFUI9oJ9a)
+**ویدیو**
 
-  - #### Sanic
+[دوره Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
+[دوره SMS Verification App by Jadi](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1vAT_rgjnvL_RgFUI9oJ9a)
 
-  - #### AIOHTTP
 
-  - #### Bottle
-
-  - #### Dash
-
-  - [List Of All Python Backend Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
+------
 
 - ### علم داده
 
+------
+
 - ### یادگیری ماشین
+
+------
 
 - ### یادگیری عمیق
 
-- ### دوآپس
+------
 
-  - **ویدیو**
-    - [SAHA DevOps Talks](https://www.youtube.com/playlist?list=PLwmrG1GXRCxBElssat08CW5yVjEAtJKX6)
-    - [سلام دوآپس با سعید](https://www.aparat.com/v/rNdW3?playlist=963191)
+### دوآپس
 
-- ### هک و امنیت
+**ویدیو**
 
-- ### مبادله الگوریتمیک
+[ویدیو SAHA DevOps Talks](https://www.youtube.com/playlist?list=PLwmrG1GXRCxBElssat08CW5yVjEAtJKX6)
+
+[سلام دوآپس با سعید](https://www.aparat.com/v/rNdW3?playlist=963191)
+
+------
+
+### هک و امنیت
+
+------
+
+### مبادله الگوریتمیک
+
+------
 
 ## مباحث پیشرفته
 
-- ### پایگاه داده ها
+### پایگاه داده ها
 
-  - #### عمومی
+#### پستگرس کیو ال
 
-  - #### پستگرس کیو ال
+**ویدیو**
 
-    - **ویدیو**
+[ویدیو Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
 
-      - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
-      - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M)
+[ویدیو PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M)
 
-  - #### مونگو دی بی
+#### مونگو دی بی
 
-  - #### ردیس
+#### ردیس
 
-    - **ویدیو**
+**ویدیو**
 
-      - [Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
+[دوره Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
 
-  - #### مم کشد
+------
 
-- ### کد تمیز
-  - [Clean Code concepts for python](https://github.com/SepehrRasouli/clean-code-python/blob/master/README.md)
+### کد تمیز
+[داکیومنت Clean Code concepts for python](https://github.com/SepehrRasouli/clean-code-python/blob/master/README.md)
+
 - ### معماری تمیز
+
+------
 
 - ### Caching
 
+------
+
 - ### Testing
 
-- ### نرم افزار های کانتینر
+------
 
-  - #### داکر
+### کانتینر پلتفرم ها
 
-    - **ویدیو**
-      - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
-      - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/)
-      - [Docker in Action by Ahmad Tahani](https://faranesh.com/programming/14863-docker-in-action)
-      - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0)
-      - [Docker Workshop by Ahmad Anvari](https://www.aparat.com/v/kla0X)
+#### داکر
 
-  - #### کوبرنتز
+**ویدیو**
 
-    - **ویدیو**
-      - [Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
+[دوره Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX)
+
+[دوره Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/)
+
+[دوره Docker in Action by Ahmad Tahani](https://faranesh.com/programming/14863-docker-in-action)
+
+[دوره Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0)
+
+[دوره Docker Workshop by Ahmad Anvari](https://www.aparat.com/v/kla0X)
+
+#### کوبرنتز
+
+**ویدیو**
+
+[ویدیو Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
+
+------
 
 - ### الگو های برنامه نویسی
 
+------
+
 - ### الگو های معماری
 
-- ### اصول طراحی
+------
+
 - ### الگو های طراحی
+
+------
 
 - ### Message Brokers
 
+------
+
 - ### Web Servers
+
+------
 
 - ### دسترسی و پایداری
 
+------
+
 - ### سیستم های توزیع شده
+
+------
 
 - ### سیستم های واکنش پذیر
 
+------
+
 - ### Refactoring
+
+------
 
 - ### امنیت
 
+------
+
 - ### نظارت
+
+------
 
 - ### مهارت های نرم
 
+------
+
 - ### Public Cloud
 
+------
+
 - ### بعد از این چه کاری انجام دهیم؟
+
+------
 
 ## مشارکت
 
