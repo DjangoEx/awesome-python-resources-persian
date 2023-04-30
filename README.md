@@ -50,7 +50,7 @@
 
 ## پیش نیاز ها
 
-- ### الگوریتم ها و ساختار داده ها
+  - ### الگوریتم ها و ساختار داده ها
   
   - **کتاب**
 
@@ -59,7 +59,7 @@
   - **بستر نرم افزاری**
     - [Quera](https://quera.org/)
 
-- ### طراحی سیستم
+  - ### طراحی سیستم
   
   - **کتاب**
 
@@ -68,7 +68,7 @@
   - **دوره**
     - [System Design Golem Course](https://www.youtube.com/watch?v=v9VdLLBETK8&list=PLnEg28Nx10WG5eYDLo76oh3oggu2ABboX)
 
-- ### گیت
+  - ### گیت
   
   - **ویدیو**
 
@@ -78,7 +78,7 @@
 
   - **کتاب**
 
-- ### سیستم عامل
+  - ### سیستم عامل
 
   - **کتاب**
 
@@ -86,7 +86,7 @@
     - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
     - [Linux Course by Morteza Bashsiz](https://sudoer.ir/)
 
-- ### پایتون
+  - ### پایتون
 
   - **مبتدی**
   
