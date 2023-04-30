@@ -56,27 +56,27 @@
 
 **بستر نرم افزاری**
 
-[Quera](https://quera.org/)
+[کوئرا](https://quera.org/)
 
-- ### طراحی سیستم
+### طراحی سیستم
 
-- **کتاب**
+**کتاب**
 
-  - [System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
+[System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
 
-- **دوره**
+**دوره**
 
-  - [System Design Golem Course](https://www.youtube.com/watch?v=v9VdLLBETK8&list=PLnEg28Nx10WG5eYDLo76oh3oggu2ABboX)
+[System Design Golem Course](https://www.youtube.com/watch?v=v9VdLLBETK8&list=PLnEg28Nx10WG5eYDLo76oh3oggu2ABboX)
 
-- ### گیت
+### گیت
 
-- **ویدیو**
+**ویدیو**
 
-  - [Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
-  - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
-  - [Git Course By Golem Course](https://www.youtube.com/watch?v=4RJUs6yP7HI&list=PLnEg28Nx10WFSSv9VK_sgrbMvqZTzgUKP)
+[Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
+[Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
+[Git Course By Golem Course](https://www.youtube.com/watch?v=4RJUs6yP7HI&list=PLnEg28Nx10WFSSv9VK_sgrbMvqZTzgUKP)
 
-- **کتاب**
+**کتاب**
 
 - ### سیستم عامل
 
