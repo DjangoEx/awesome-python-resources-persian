@@ -48,7 +48,7 @@
 
 ## پیش نیاز ها
 
-<div dir="rtl">
+<div dir="rtl" style="direction: rtl; text-align: right">
 
 - ### الگوریتم ها و ساختار داده ها
   
