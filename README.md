@@ -57,7 +57,7 @@
 **ویدیو**
 
 **بستر نرم افزاری**
-  - [Quera](https://quera.org/)
+  [Quera](https://quera.org/)
 
 </div>
 
