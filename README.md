@@ -46,6 +46,8 @@
 
 </div>
 
+------
+
 ## پیش نیاز ها
 
 ### الگوریتم ها و ساختار داده ها
@@ -62,7 +64,7 @@
 
 **کتاب**
 
-[System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
+<a href="https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md" dir="rtl">System Design Primer</a>
 
 **دوره**
 
@@ -73,7 +75,9 @@
 **ویدیو**
 
 [Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
+
 [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
+
 [Git Course By Golem Course](https://www.youtube.com/watch?v=4RJUs6yP7HI&list=PLnEg28Nx10WFSSv9VK_sgrbMvqZTzgUKP)
 
 **کتاب**
