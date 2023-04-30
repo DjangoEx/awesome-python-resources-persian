@@ -48,87 +48,88 @@
 
 ## پیش نیاز ها
 
-<div dir="rtl" style="direction: rtl; text-align: right">
-
 ### الگوریتم ها و ساختار داده ها
-  
-* **کتاب**
 
-* **ویدیو**
+**کتاب**
 
-* **بستر نرم افزاری**
-  [Quera](https://quera.org/)
+**ویدیو**
 
-</div>
+**بستر نرم افزاری**
 
-  - ### طراحی سیستم
-  
+[Quera](https://quera.org/)
+
+- ### طراحی سیستم
+
+- **کتاب**
+
+  - [System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
+
+- **دوره**
+
+  - [System Design Golem Course](https://www.youtube.com/watch?v=v9VdLLBETK8&list=PLnEg28Nx10WG5eYDLo76oh3oggu2ABboX)
+
+- ### گیت
+
+- **ویدیو**
+
+  - [Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
+  - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
+  - [Git Course By Golem Course](https://www.youtube.com/watch?v=4RJUs6yP7HI&list=PLnEg28Nx10WFSSv9VK_sgrbMvqZTzgUKP)
+
+- **کتاب**
+
+- ### سیستم عامل
+
+- **کتاب**
+
+- **ویدیو**
+
+  - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
+  - [Linux Course by Morteza Bashsiz](https://sudoer.ir/)
+
+- ### پایتون
+
+- **مبتدی**
+
   - **کتاب**
 
-    - [System Design Primer](https://github.com/hadisinaee/system-design-primer/blob/persian-translation/README-fa.md)
+    - [شیوه‌نامه نگارش پایتون (PEP 8 فارسی)](https://pep8.ir/)
 
-  - **دوره**
-    - [System Design Golem Course](https://www.youtube.com/watch?v=v9VdLLBETK8&list=PLnEg28Nx10WG5eYDLo76oh3oggu2ABboX)
-
-  - ### گیت
-  
   - **ویدیو**
 
-    - [Git Course by Jadi](https://faradars.org/courses/fv9609git-git-git-gitlab)
-    - [Git Course by AmirHossein Abdolkhalegh](https://www.youtube.com/watch?v=PpJtzg1aMT8)
-    - [Git Course By Golem Course](https://www.youtube.com/watch?v=4RJUs6yP7HI&list=PLnEg28Nx10WFSSv9VK_sgrbMvqZTzgUKP)
+    - [Python Tutorial by Jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/)
+    - [Python Expert](https://sabzlearn.ir/product/python/)
+    - [Python Tutorial by Golem Course](https://www.youtube.com/watch?v=d1RsktGiQIQ&list=PLnEg28Nx10WFuBHjDLlYEJ4JboPIp55Yr)
 
-  - **کتاب**
+  - **بستر نرم افزاری**
+    - [Python Coderz](https://python.coderz.ir/index.html)
 
-  - ### سیستم عامل
+- **متوسطه**
 
   - **کتاب**
 
   - **ویدیو**
-    - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2)
-    - [Linux Course by Morteza Bashsiz](https://sudoer.ir/)
 
-  - ### پایتون
+- **پیشرفته**
 
-  - **مبتدی**
-  
-    - **کتاب**
-      - [شیوه‌نامه نگارش پایتون (PEP 8 فارسی)](https://pep8.ir/)
+  - **کتاب**
 
-    - **ویدیو**
-      - [Python Tutorial by Jadi](https://gotoclass.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/)
-      - [Python Expert](https://sabzlearn.ir/product/python/)
-      - [Python Tutorial by Golem Course](https://www.youtube.com/watch?v=d1RsktGiQIQ&list=PLnEg28Nx10WFuBHjDLlYEJ4JboPIp55Yr)
+    - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/)
 
-    - **بستر نرم افزاری**
-      - [Python Coderz](https://python.coderz.ir/index.html)
-
-  - **متوسطه**
-  
-    - **کتاب**
-
-    - **ویدیو**
-
-  - **پیشرفته**
-  
-    - **کتاب**
-      - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/)
-
-    - **ویدیو**
-
+  - **ویدیو**
 
 ## مسیر شغلی
 
 - ### سمت سرور
 
   - #### Django
-  
+
     - **کتاب**
 
       - [Django for APIs by ftg-iran](https://github.com/ftg-iran/dfa-persian)
       - [Django for Professionals by ftg-iran](https://github.com/ftg-iran/dfp-persian)
       - [Django Practical Book by Alireza Azimzadeh](https://www.pendarepars.com/book/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%8A-%D8%AC%D9%86%DA%AF%D9%88-django-%D9%82%D9%88%D9%8A%D8%AA%D8%B1%D9%8A%D9%86-%D9%81%D8%B1%D9%8A%D9%85%D9%88%D8%B1%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88%D8%A8-%D8%A7%D9%BE%D9%84%D9%8A%DA%A9%D9%8A%D8%B4%D9%86-%D9%BE%D8%A7%D9%8A%D8%AA%D9%88%D9%86)
-    
+
     - **ویدیو**
 
       - [Django From Beginner To Advanced by Mehran Tarif](https://www.youtube.com/watch?v=XVNnOa41jT0&list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh)
@@ -147,7 +148,8 @@
   - #### Flask
 
     - **مستندات**
-        - [Flask Persian documents](https://flask-fa.readthedocs.io)
+
+      - [Flask Persian documents](https://flask-fa.readthedocs.io)
 
     - **ویدیو**
       - [Flask Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw)
@@ -175,8 +177,6 @@
     - [SAHA DevOps Talks](https://www.youtube.com/playlist?list=PLwmrG1GXRCxBElssat08CW5yVjEAtJKX6)
     - [سلام دوآپس با سعید](https://www.aparat.com/v/rNdW3?playlist=963191)
 
-
-
 - ### هک و امنیت
 
 - ### مبادله الگوریتمیک
@@ -184,11 +184,11 @@
 ## مباحث پیشرفته
 
 - ### پایگاه داده ها
-  
+
   - #### عمومی
 
   - #### پستگرس کیو ال
-  
+
     - **ویدیو**
 
       - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/)
@@ -203,7 +203,7 @@
       - [Redis in one hour](https://www.youtube.com/watch?v=J_4gThmGT9o)
 
   - #### مم کشد
-  
+
 - ### کد تمیز
   - [Clean Code concepts for python](https://github.com/SepehrRasouli/clean-code-python/blob/master/README.md)
 - ### معماری تمیز
@@ -225,17 +225,14 @@
 
   - #### کوبرنتز
 
-  	- **ویدیو**
-	    - [Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
-
-
+    - **ویدیو**
+      - [Introduction to Kubernetes for Developers](https://www.aparat.com/v/ZUbys)
 
 - ### الگو های برنامه نویسی
 
 - ### الگو های معماری
 
 - ### اصول طراحی
-  
 - ### الگو های طراحی
 
 - ### Message Brokers
