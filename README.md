@@ -44,6 +44,10 @@
   - [بعد از این چه کاری انجام دهیم؟](#where-to-go-next)
 - [مشارکت](#مشارکت)
 
+</div>
+
+<div dir="rtl">
+
 ## پیش نیاز ها
 
 - ### الگوریتم ها و ساختار داده ها
@@ -109,6 +113,8 @@
       - [Python Tricks by BobyCloud & DevMoein](http://boby.cloud/product/python-tricks/)
 
     - **ویدیو**
+
+</div>
 
 ## مسیر شغلی
 
@@ -258,5 +264,3 @@
 با خیال راحت مشارکت کنید و منابع بیشتری اضافه کنید.
 
 اولین بار است که مشارکت میکنید؟ برای اطلاعات بیشتر درباره ی مراحل و راهنما ها ، اینجا را ببینید : [اینجا](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md).
-
-</div>
